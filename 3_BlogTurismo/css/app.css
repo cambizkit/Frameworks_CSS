@@ -1,0 +1,45 @@
+.body-latintrips {
+  background-color: #000;
+  background-image: url(../img/top_background.png), url(../img/background.jpg);
+  background-repeat: repeat-x, no-repeat;
+  background-attachment: fixed, fixed;
+  background-size: auto, 100% auto;
+  color: #fff;
+  padding-top: 20px;
+}
+.logo-img {
+  width: 130px;
+  height: 175px;
+  border-radius: 5px;
+}
+.text-slogan {
+  font-style: italic !important;
+}
+nav {
+  background-color: inherit !important;
+  box-shadow: 0px 0px !important;
+  height: 40px !important;
+  line-height: 56px !important  ;
+}
+.social-networks {
+  list-style-type: none;
+}
+.img-social {
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+}
+.entry {
+  padding: 10px;
+}
+.img-article {
+  width: 40%;
+  margin: 10px;
+}
+.img-autor {
+  width: 80%;
+  margin: 10px 0 10px 0;
+}
+.card-autor {
+  padding: 10px 5px;
+}

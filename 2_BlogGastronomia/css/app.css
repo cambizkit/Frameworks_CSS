@@ -1,0 +1,69 @@
+.body-funstronomy {
+  background: url(../img/background.jpg) fixed no-repeat;
+  background-size: 100% auto;
+}
+.content {
+  background-color: rgba(139, 136, 185, 0.85);
+  color: #fff;
+}
+.logo-content {
+  border-right: solid 1px #fff;
+}
+.slogan-text {
+  font-style: italic;
+}
+hr {
+  border-top: solid 1px #fff;
+}
+.primary {
+  background-color: rgba(211, 209, 220, 0.9) !important;
+  color: #403f40 !important;
+}
+.secondary {
+  background-color: rgba(104, 85, 170, 0.9) !important;
+  color: #fff !important;
+}
+.search-content {
+  display: flex;
+  flex-flow: row wrap;
+}
+.search-text {
+  width: 70%;
+}
+.menu .active > a {
+  background-color: rgba(104, 85, 170, 0.9) !important;
+}
+.favorite-img {
+  margin: 2px;
+  padding: 2px;
+  background-color: #fff;
+  border: solid 0.5px black;
+}
+.entry-date {
+  color: #e2e2e4;
+}
+.entry-img {
+  margin: 10px 2px;
+  padding: 2px;
+  background-color: #fff;
+  border: solid 0.5px black;
+}
+mark {
+  background-color: rgba(219, 224, 143, 0.9);
+}
+.callout {
+  border-radius: 5px;
+}
+.user-post {
+  display: flex;
+  flex-flow: row wrap;
+}
+.user-image {
+  width: 50px;
+  height: 50px;
+  margin: 0 10px 0 0;
+}
+.user-post p {
+  width: 80%;
+  font-size: 0.9em;
+}

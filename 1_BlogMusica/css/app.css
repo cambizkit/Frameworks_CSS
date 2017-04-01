@@ -1,0 +1,44 @@
+.header-default {
+  background-color: #5b3e4f;
+}
+.img-logo {
+  width: 200px;
+}
+.social-networks {
+  margin-top: 45px;
+}
+.img-social {
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+}
+.navbar-default {
+  background-color: #cfb9c6;
+}
+.navbar-default ul li a {
+  color: #1b1318;
+}
+.nav-pills > li.active > a {
+  background-color: #755769;
+}
+.nav-pills > li.active > a:hover {
+  background-color: #a07e92;
+}
+.comment-input {
+  margin: 5px;
+}
+.search-panel {
+  margin: 10px;
+}
+.search-input {
+  margin: 5px;
+  display: flex;
+  flex-flow: row wrap;
+}
+.search-text {
+  width: 70%;
+}
+.btn-default {
+  background-color: #5b3e4f;
+  color: #fff;
+}
